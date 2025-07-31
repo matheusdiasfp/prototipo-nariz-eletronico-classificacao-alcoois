@@ -6,10 +6,7 @@ Este projeto propõe o desenvolvimento e a construção de um protótipo de nari
 
 ## Objetivos
 
-Desenvolver um dispositivo portátil e de baixo custo capaz de:
-* Classificar três tipos de álcoois voláteis (etanol, metanol, isopropanol).
-* Distinguir amostras que não contêm álcool (como água ou cloro).
-* Oferecer uma interface intuitiva para análise em tempo real.
+O principal objetivo deste trabalho foi desenvolver e construir um nariz eletrônico capaz de classificar vapores de etanol, metanol e isopropanol de forma rápida, acessível e eficaz.
 
 ## Tecnologias Utilizadas
 
