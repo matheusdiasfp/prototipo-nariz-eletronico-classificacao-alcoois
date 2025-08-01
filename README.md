@@ -26,7 +26,7 @@ O principal objetivo deste trabalho foi desenvolver e construir um nariz eletrô
 
 **Matheus Dias Franco Pereira**
 * **Orientadora:** Profa. Dra. Katia Cristiane Gandolpho Candioto
-* **Instituição:** Escola de Engenharia de Lorena (EEL) da Universidade de São Paulo (USP)
+* **Instituição:** Escola de Engenharia de Lorena da Universidade de São Paulo (EEL-USP)
 * **Email para contato:** matheusdiasfp@gmail.com
 
 ## Licença
